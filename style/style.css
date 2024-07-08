@@ -1,0 +1,103 @@
+/*...................../////navbar/////...................*/
+
+
+.location a button {
+	background-color:white;
+	color:black;
+}
+.search1 input{
+	width: 70%;
+}
+
+.search2 a input{
+	width:70%; 
+	font-size: 20px; 
+	border-radius: 10px;
+}
+
+  @media only screen and (max-width: 768px) {
+  
+   .part{
+   	width:200px;
+   }
+
+  }
+
+
+/*................./////home/////.................*/
+
+.link a{
+	text-decoration: none;
+	color:black;
+	
+}
+
+.login a{
+	text-decoration: none;
+	color:white;
+		
+}
+
+.oline a{
+	text-decoration: overline;
+}
+
+
+/*...................../////form css/////..................*/
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  }
+  
+  input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  }
+  
+  
+  .containerf {
+  
+  border-radius: 5px;
+  padding: 150px;
+  }
+  
+  
+  .containerf h1{
+  text-align: center;
+  color:black;
+  font-size:50px;
+  padding-bottom:20px; 
+  }
+
+  .containerf h5{
+  text-align: center;
+  color:black;
+  }
+
+  .containerf a{
+    text-decoration: none;
+  }
+
+
+  .btn a{
+    text-decoration: none;
+  }
+
+.center h5{
+  text-align: center;
+}
+
+.center p{
+  text-align: center;
+}
